@@ -1,0 +1,22 @@
+{
+    "books":[
+        {
+            "id":1,
+            "name":"El principito",
+            "author":"Antony de Saint",
+            "year":1943
+        },
+        {
+            "id":2,
+            "name":"Orgullo y perjuicio",
+            "author":"Jane Austen",
+            "year":1813
+        },
+        {
+            "id":3,
+            "name":"El hombre que calculaba",
+            "author":"Francisco Quimuna",
+            "year":2014
+        }
+    ]
+}
